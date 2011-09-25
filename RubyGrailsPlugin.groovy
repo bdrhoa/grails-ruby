@@ -3,7 +3,7 @@ import javax.script.ScriptEngineManager
 import org.springframework.core.io.FileSystemResource
 
 class RubyGrailsPlugin {
-    def version = "1.0.M1"
+    def version = "1.0.M2"
     def grailsVersion = "1.2 > *"
     def title = "Ruby"
     def author = "Bobby Warner"
