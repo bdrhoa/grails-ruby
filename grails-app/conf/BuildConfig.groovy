@@ -17,7 +17,7 @@ grails.project.dependency.resolution = {
     }
 
     dependencies {
-        runtime 'org.jruby:jruby:1.6.5'
+        runtime 'org.jruby:jruby:1.7.11'
     }
 
     plugins {
